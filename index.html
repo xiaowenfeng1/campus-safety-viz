@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="main.css">
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <title>Campus Safety and Security Report</title>
+  </head>
+  <body class="main">
+    <h2 class="text-center">Campus Safety and Security Report</h2>
+    <div class="container section">
+      <div class="page-header">
+        <h4 class="text-center">Campus Safety and Security Incidents, 2012</h4>
+      </div>
+
+      <div id="sunburst" class="text-center">
+        <div id="explanation" style="visibility: hidden;">
+          <span id="countString"></span><br/>
+        </div>
+      </div>
+      <div class="legend">
+      </div>
+    </div>
+
+    <div class="container section">
+      <div class="page-header">
+        <h4 class="text-center">Campus Safety and Security Incidents by Type, 2012-2014</h4>
+      </div>
+
+      <div id="area" class="text-center">
+        <div class="dropdown">
+          <select>
+            <option id="item" value="arrest">Arrest</option>
+            <option id="item" value="criminal">Criminal Offenses</option>
+            <option id="item" value="discipline">Discipline</option>
+            <option id="item" value="hatecrimes">Hate Crimes</option>
+         </select>
+        </div>
+      </div>
+
+    </div>
+  </body>
+  <!-- <script src="app.js"></script> -->
+
+  <script src="sunburst.js"></script>
+  <script src="chart.js"></script>
+</html>

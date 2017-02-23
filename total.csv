@@ -1,0 +1,58 @@
+type,subtype,location,y2012,y2013,y2014
+Arrest,Illegal Weapon Possessions,On Campus,1093,1093,1072
+Arrest,Illegal Weapon Possessions,Non-Campus,140,137,166
+Arrest,Illegal Weapon Possessions,Public Property,631,611,631
+Arrest,Drug Arrests,On Campus,21820,20494,19706
+Arrest,Drug Arrests,Non-Campus,343,1433,1240
+Arrest,Drug Arrests,Public Property,7658,6922,6589
+Arrest,Liquor Law Violations,On Campus,31183,27119,25270
+Arrest,Liquor Law Violations,Non-Campus,1602,1543,1619
+Arrest,Liquor Law Violations,Public Property,9680,8025,6645
+Criminal Offenses,Murder,On Campus,12,24,11
+Criminal Offenses,Murder,Non-Campus,0,6,0
+Criminal Offenses,Murder,Public Property,20,13,23
+Criminal Offenses,Negligent Manslaughter,On Campus,2,0,2
+Criminal Offenses,Negligent Manslaughter,Non-Campus,0,0,0
+Criminal Offenses,Negligent Manslaughter,Public Property,0,1,3
+Criminal Offenses,Forcible Sex Offenses,On Campus,4071,5091,
+Criminal Offenses,Forcible Sex Offenses,Non-Campus,443,594,
+Criminal Offenses,Forcible Sex Offenses,Public Property,428,366,
+Criminal Offenses,Non Forcible Sex Offenses,On Campus,48,48,
+Criminal Offenses,Non Forcible Sex Offenses,Non-Campus,22,9,
+Criminal Offenses,Non Forcible Sex Offenses,Public Property,2,2,
+Criminal Offenses,Robbery,On Campus,1655,1534,1259
+Criminal Offenses,Robbery,Non-Campus,182,210,206
+Criminal Offenses,Robbery,Public Property,2342,1962,1766
+Criminal Offenses,Aggravated Assault,On Campus,2628,2263,2235
+Criminal Offenses,Aggravated Assault,Non-Campus,390,470,382
+Criminal Offenses,Aggravated Assault,Public Property,1488,1398,1273
+Criminal Offenses,Burglary,On Campus,18643,15863,14004
+Criminal Offenses,Burglary,Non-Campus,1799,1549,1453
+Criminal Offenses,Burglary,Public Property,1,0,0
+Criminal Offenses,Motor Vehicle Theft,On Campus,3218,3213,3127
+Criminal Offenses,Motor Vehicle Theft,Non-Campus,409,498,429
+Criminal Offenses,Motor Vehicle Theft,Public Property,1957,1663,1493
+Criminal Offenses,Arson,On Campus,716,643,610
+Criminal Offenses,Arson,Non-Campus,58,53,42
+Criminal Offenses,Arson,Public Property,35,39,37
+Discipline,Illegal Weapon Possessions,On Campus,1501,1540,1549
+Discipline,Illegal Weapon Possessions,Non-Campus,86,62,68
+Discipline,Illegal Weapon Possessions,Public Property,69,42,46
+Discipline,Drug Arrests,On Campus,55079,54871,58570
+Discipline,Drug Arrests,Non-Campus,2301,2362,1752
+Discipline,Drug Arrests,Public Property,866,777,684
+Discipline,Liquor Law Violations,On Campus,198474,193578,197368
+Discipline,Liquor Law Violations,Non-Campus,5506,5982,5067
+Discipline,Liquor Law Violations,Public Property,2613,2338,2087
+Hate Crimes,Intimidation,On Campus,290,314,359
+Hate Crimes,Intimidation,Non-Campus,12,14,11
+Hate Crimes,Intimidation,Public Property,26,27,35
+Hate Crimes,Vandalism,On Campus,409,365,334
+Hate Crimes,Vandalism,Non-Campus,15,8,10
+Hate Crimes,Vandalism,Public Property,20,10,29
+Hate Crimes,Larceny,On Campus,24,17,24
+Hate Crimes,Larceny,Non-Campus,0,5,0
+Hate Crimes,Larceny,Public Property,22,19,14
+Hate Crimes,Aggravated Assault,On Campus,15,10,20
+Hate Crimes,Aggravated Assault,Non-Campus,1,6,2
+Hate Crimes,Aggravated Assault,Public Property,8,19,14
