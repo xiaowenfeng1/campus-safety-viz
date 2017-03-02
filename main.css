@@ -27,18 +27,16 @@ font-weight: bold;
 path {
 stroke: #fff;
 }
+
 #explanation {
-position: absolute;;
-top: 350px;
-left: 610px;
-width: 180px;
+position: relative;
 color: #666;
-z-index: -1;
 }
 
 #countString {
 font-size: 1.5em;
 }
+
 .toolTip {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     position: absolute;
