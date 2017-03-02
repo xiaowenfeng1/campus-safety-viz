@@ -66,9 +66,9 @@ d3.csv("total.csv", function(error,data) {
  // Fade all but the current sequence, and show it in the breadcrumb trail.
 function mouseover(d) {
   console.log(d);
-  var count = (d.data.type ? d.data.type : "")+ "<br/>"+
-  (d.parent.data.key ? d.parent.data.key : "") + "<br/>"
-  + (d.data.key ? d.data.key +" " : "") + "<br/>"
+  var count = (d.data.type ? d.data.type : "")+ "\n"+
+  (d.parent.data.key ? d.parent.data.key : "") + "\n"
+  + (d.data.key ? d.data.key +" " : "") + "\n"
   +(d.data.location ? d.data.location : "")
    + "\n" +d.value;
   // var countString = count;
