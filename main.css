@@ -28,15 +28,6 @@ path {
 stroke: #fff;
 }
 
-#explanation {
-position: relative;
-color: #666;
-}
-
-#countString {
-font-size: 1.5em;
-}
-
 .toolTip {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     position: absolute;

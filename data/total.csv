@@ -1,0 +1,73 @@
+type,subtype,location,y2012,y2013,y2014,crime
+Arrest,Illegal Weapon Possessions,On Campus,1093,1093,1072,crime
+Arrest,Illegal Weapon Possessions,Non-Campus,140,137,166,crime
+Arrest,Illegal Weapon Possessions,Public Property,631,611,631,crime
+Arrest,Drug Arrests,On Campus,21820,20494,19706,crime
+Arrest,Drug Arrests,Non-Campus,343,1433,1240,crime
+Arrest,Drug Arrests,Public Property,7658,6922,6589,crime
+Arrest,Liquor Law Violations,On Campus,31183,27119,25270,crime
+Arrest,Liquor Law Violations,Non-Campus,1602,1543,1619,crime
+Arrest,Liquor Law Violations,Public Property,9680,8025,6645,crime
+Criminal Offenses,Murder,On Campus,12,24,11,crime
+Criminal Offenses,Murder,Non-Campus,0,6,0,crime
+Criminal Offenses,Murder,Public Property,20,13,23,crime
+Criminal Offenses,Negligent Manslaughter,On Campus,2,0,2,crime
+Criminal Offenses,Negligent Manslaughter,Non-Campus,0,0,0,crime
+Criminal Offenses,Negligent Manslaughter,Public Property,0,1,3,crime
+Criminal Offenses,Forcible Sex Offenses,On Campus,4071,5091,null,crime
+Criminal Offenses,Forcible Sex Offenses,Non-Campus,443,594,null,crime
+Criminal Offenses,Forcible Sex Offenses,Public Property,428,366,null,crime
+Criminal Offenses,Non Forcible Sex Offenses,On Campus,48,48,null,crime
+Criminal Offenses,Non Forcible Sex Offenses,Non-Campus,22,9,null,crime
+Criminal Offenses,Non Forcible Sex Offenses,Public Property,2,2,null,crime
+Criminal Offenses,Rape,On Campus,null,null,4464,crime
+Criminal Offenses,Rape,Non-Campus,null,null,507,crime
+Criminal Offenses,Rape,Public Property,null,null,216,crime
+Criminal Offenses,Fondling,On Campus,null,null,2330,crime
+Criminal Offenses,Fondling,Non-Campus,null,null,191,crime
+Criminal Offenses,Fondling,Public Property,null,null,188,crime
+Criminal Offenses,Statutory Rape,On Campus,null,null,55,crime
+Criminal Offenses,Statutory Rape,Non-Campus,null,null,5,crime
+Criminal Offenses,Statutory Rape,Public Property,null,null,7,crime
+Criminal Offenses,Robbery,On Campus,1655,1534,1259,crime
+Criminal Offenses,Robbery,Non-Campus,182,210,206,crime
+Criminal Offenses,Robbery,Public Property,2342,1962,1766,crime
+Criminal Offenses,Aggravated Assault,On Campus,2628,2263,2235,crime
+Criminal Offenses,Aggravated Assault,Non-Campus,390,470,382,crime
+Criminal Offenses,Aggravated Assault,Public Property,1488,1398,1273,crime
+Criminal Offenses,Burglary,On Campus,18643,15863,14004,crime
+Criminal Offenses,Burglary,Non-Campus,1799,1549,1453,crime
+Criminal Offenses,Burglary,Public Property,1,0,0,crime
+Criminal Offenses,Motor Vehicle Theft,On Campus,3218,3213,3127,crime
+Criminal Offenses,Motor Vehicle Theft,Non-Campus,409,498,429,crime
+Criminal Offenses,Motor Vehicle Theft,Public Property,1957,1663,1493,crime
+Criminal Offenses,Arson,On Campus,716,643,610,crime
+Criminal Offenses,Arson,Non-Campus,58,53,42,crime
+Criminal Offenses,Arson,Public Property,35,39,37,crime
+Hate Crimes,Intimidation,On Campus,290,314,359,crime
+Hate Crimes,Intimidation,Non-Campus,12,14,11,crime
+Hate Crimes,Intimidation,Public Property,26,27,35,crime
+Hate Crimes,Vandalism,On Campus,409,365,334,crime
+Hate Crimes,Vandalism,Non-Campus,15,8,10,crime
+Hate Crimes,Vandalism,Public Property,20,10,29,crime
+Hate Crimes,Larceny,On Campus,24,17,24,crime
+Hate Crimes,Larceny,Non-Campus,0,5,0,crime
+Hate Crimes,Larceny,Public Property,22,19,14,crime
+Hate Crimes,Aggravated Assault,On Campus,15,10,20,crime
+Hate Crimes,Aggravated Assault,Non-Campus,1,6,2,crime
+Hate Crimes,Aggravated Assault,Public Property,8,19,14,crime
+Hate Crimes,Burglary,On Campus,10,5,52,crime
+Hate Crimes,Burglary,Non-Campus,0,0,0,crime
+Hate Crimes,Burglary,Public Property,0,0,0,crime
+Hate Crimes,Body Injury,On Campus,91,99,67,crime
+Hate Crimes,Body Injury,Non-Campus,3,13,5,crime
+Hate Crimes,Body Injury,Public Property,16,24,20,crime
+VAWA,Domestic Violence,On Campus,null,null,2832,crime
+VAWA,Domestic Violence,Non-Campus,null,null,456,crime
+VAWA,Domestic Violence,Public Property,null,null,704,crime
+VAWA,Dating Violence,On Campus,null,null,3195,crime
+VAWA,Dating Violence,Non-Campus,null,null,148,crime
+VAWA,Dating Violence,Public Property,null,null,225,crime
+VAWA,Stalking,On Campus,null,null,4258,crime
+VAWA,Stalking,Non-Campus,null,null,189,crime
+VAWA,Stalking,Public Property,null,null,163,crime
